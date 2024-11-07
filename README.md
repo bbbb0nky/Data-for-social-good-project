@@ -18,20 +18,19 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 
 Include your User Story you analyzed for your project here. Your User Story should have the following format: 
 
-> As an [role], <br> 
-> I want to [goal], <br> 
-> so that I can [benefit]. 
+> As anew record shop business owner, <br> 
+> I want to have successful record shop business, <br> 
+> so that I can make a lot of money and become successful. 
 
 ## Dataset 
 
 Include a hyperlink to the source of your dataset used for this project. Additionally, provide a short description of each column used from the dataset, and the data type. 
 
-Example: 
-
-Dataset: https://www.kaggle.com/datasets/sansuthi/global-co2-emissions 
-- **Country** (String) - name of the country 
-- **Population** (int) - number of people in the country 
-- **CO2Emissions** (double) - carbon dioxide emission in kilotons 
+Dataset: https://www.kaggle.com/datasets/michaelbryantds/top-5000-albums-of-all-time-rateyourmusiccom
+ 
+- **Album** (String) - name of the album 
+- **Artist** (String) - name of the artist 
+- **Genre** (String) - name of the genre(s) within the album 
 
 ## UML Diagram 
 

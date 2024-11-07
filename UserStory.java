@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /*
-* I am a new record shop business owner.
+* As a new record shop business owner,
 * I want to create a successful record shop business.
 * To do this, I must know what genres and artists are from are popular.
 */
